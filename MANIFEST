@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+test.pl
+Tmpl.pm
+templates/sample.tmpl
+
