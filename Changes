@@ -1,6 +1,5 @@
 Revision history for Perl extension HTML::Tmpl.
 
-0.01  Tue Mar 19 09:14:52 2002
-	- original version; created by h2xs 1.21 with options
-		-X -A HTML::Tmpl
+1.0  Mon Sep 29 09:40:04 CEST 2003
+	- initial version
 
